@@ -1,0 +1,1 @@
+print({x:str(x*x+1) for x in range(40,90) if x%5 == 4})
